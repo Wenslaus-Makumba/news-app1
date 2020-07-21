@@ -4,7 +4,7 @@
 
  github repository :https://github.com/Wenslaus-Makumba/news-app1
 
-Link to live site : 
+Link to live site : https://lit-island-61301.herokuapp.com/
 ## Description
 
 This is a web appliction that displays a list of news sources from around the world. A user is able to click on a news source and view the particular news article and the time the article was published. Clicking on the news article  will then redirect you to the news article's web page.
